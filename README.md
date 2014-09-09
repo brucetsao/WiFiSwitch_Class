@@ -9,7 +9,7 @@ WiFiSwitch_Class
 4. 外殼雷切檔案
 5. 課程投影片請至連結：
 
-https://drive.google.com/file/d/0By0AKx4nVPKfbTBmbnZTWjFCaTA/edit?usp=sharing
+https://drive.google.com/file/d/0By0AKx4nVPKfU0JPeV8wS2c2Z1k/edit?usp=sharing
 
 若有發現Bug的話會持續更新，請上過課的學員可以注意一下，
 目前課程測試上是使用1.13版本的韌體，如果第一堂課的學員想使用第二堂課的資源，
@@ -17,9 +17,19 @@ https://drive.google.com/file/d/0By0AKx4nVPKfbTBmbnZTWjFCaTA/edit?usp=sharing
 
 =================================================================================
 
+如何安裝環境：
+
+1. 參考課程投影片，下載右下角.zip檔案並且解壓縮檔案至硬碟
+2. 刪除資料夾名稱的-master字尾
+3. 開啟Arduino IDE並且將sketchbook location，
+   設定到剛剛解壓縮的資料夾下，並重新開啟Arduino IDE
+4. 選擇File=>sketchbool若有出現WiFiSwitch.ino則設定完成。
+
+=================================================================================
+
 更新韌體的方式：
 
-1. 參考課程投影片，下載右下角.zip檔案並且壓縮
+1. 參考課程投影片，下載右下角.zip檔案並且解壓縮檔案至硬碟
 2. 刪除資料夾名稱的-master字尾
 3. 開啟Arduino IDE並且將sketchbook location，
    設定到剛剛解壓縮的資料夾下，並重新開啟Arduino IDE
